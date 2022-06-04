@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-Many bacteria types are not very well-studied and many more remain unknown to science. My task is to document some of these bacteria. In particular, I will be looking at the **belly button bacteria** that can synthesize proteins that taste like beef.
+Many bacteria types are not very well-studied and many more remain unknown to science. My task is to document some of these bacteria. In particular, I will be looking at the **belly button bacteria** samples from the study with anonymous participants across the country. 
 
-I was given samples of such bacteria from anonymous participants across the country. I am tasked with building an **interactive dashboard** that both the research participants and researchers can access. Participants will be able to use the dashboard and select their participant ID numbers and see what type of bacteria colonize their belly buttons.
+I am tasked with building an **interactive dashboard** that both the research participants and researchers can access. Participants will be able to use the dashboard and select their participant ID numbers and see what type of bacteria colonize their belly buttons.
 
 ## Resources
 - ```Plotly.js``` JavaScript data visualization library. 
